@@ -1,0 +1,626 @@
+Keyword,Drug Type,Context
+snow,Cocaine,Slang for cocaine
+white lady,Cocaine,Street name for cocaine
+blow,Cocaine,Common term for cocaine
+nose candy,Cocaine,Another term for cocaine
+flake,Cocaine,Fine powdered cocaine
+powder,Cocaine,General term for cocaine
+dope,Heroin,General slang for heroin
+H,Heroin,Short for heroin
+smack,Heroin,Common term for heroin
+brown sugar,Heroin,Street name for heroin
+black tar,Heroin,Type of heroin
+dragon,Heroin,Another slang for heroin
+horse,Heroin,Alternative heroin term
+skunk,Cannabis,Slang for potent cannabis
+weed,Cannabis,Common term for marijuana
+ganja,Cannabis,Slang for marijuana
+mary jane,Cannabis,Nickname for marijuana
+hash,Cannabis,Slang for hashish
+pot,Cannabis,General term for cannabis
+reefer,Cannabis,Old slang for marijuana
+chronic,Cannabis,Strong cannabis strain
+bud,Cannabis,Cannabis flower
+kush,Xanax,Type of cannabis
+sativa,Xanax,Cannabis plant variety
+indica,Xanax,Cannabis plant variety
+xan,Xanax,Short for Xanax
+bars,Xanax,Refers to Xanax bars
+benzos,MDMA,Slang for benzodiazepines
+football,MDMA,Street name for Xanax
+yellow school bus,MDMA,Yellow Xanax bars
+molly,MDMA,Street name for MDMA
+ecstasy,MDMA,Party drug name for MDMA
+E,MDMA,Shortened term for MDMA
+X,Methamphetamine,Letter abbreviation for MDMA
+adam,Methamphetamine,Nickname for MDMA
+love drug,Methamphetamine,MDMA's party nickname
+ice,Methamphetamine,Slang for methamphetamine
+crystal,Methamphetamine,Crystal methamphetamine
+meth,Methamphetamine,Street name for meth
+glass,Methamphetamine,Another slang for meth
+crank,Methamphetamine,Methamphetamine nickname
+speed,Hallucinogen,Slang for methamphetamine
+rock,Hallucinogen,Common slang for meth
+base,Hallucinogen,Strong meth variation
+yaba,Hallucinogen,Street name for LSD
+lsd,Hallucinogen,Acidic hallucinogen
+acid,Hallucinogen,LSD in tablet form
+tabs,Hallucinogen,LSD on paper strips
+blotter,Hallucinogen,LSD paper squares
+paper,Hallucinogen,Slang for magic mushrooms
+shrooms,Opioid,Hallucinogenic mushrooms
+boomers,Opioid,Street name for psychedelic mushrooms
+magic mushrooms,Opioid,Short for fentanyl
+fent,Opioid,Oxycodone abbreviation
+oxy,Opioid,Percocet slang
+perc,Opioid,Codeine-based drug
+codeine,Opioid,Mixture of codeine and soda
+lean,Opioid,Street name for codeine cough syrup
+purple drank,Opioid,Street name for cough syrup
+syrup,Opioid,Roxicodone slang
+roxy,Hallucinogen,Highly potent fentanyl
+china white,Hallucinogen,Opioid used recreationally
+hillbilly heroin,Hallucinogen,Psychedelic compound
+DMT,Hallucinogen,DMT-containing brew
+ayahuasca,Hallucinogen,Psychedelic hallucinogen
+mescaline,Hallucinogen,Peyote cactus-based drug
+peyote,Dissociative,Street name for PCP
+dust,Dissociative,Alternative PCP term
+angel dust,Dissociative,PCP hallucinogen
+PCP,Dissociative,Club drug dissociative
+ketamine,Depressant,Street name for ketamine
+K,Depressant,Dissociative anesthetic
+special K,Depressant,Hallucinogenic club drug
+GHB,Depressant,Date rape drug
+liquid X,Synthetic Drug,Nickname for GHB
+roofies,Synthetic Drug,Sedative-hypnotic drug
+rohypnol,Synthetic Drug,Commonly abused depressant
+bath salts,Synthetic Drug,Synthetic stimulant
+flakka,Synthetic Drug,Synthetic cathinone drug
+spice,Synthetic Drug,Synthetic cannabis alternative
+K2,Synthetic Drug,Synthetic cannabinoid
+synthetic weed,Synthetic Drug,Fake marijuana alternative
+krokodil,Synthetic Drug,Highly addictive opioid
+cheese,Synthetic Drug,Mixture of heroin and additives
+U4,General Drug Term,Street name for fentanyl analog
+pink,General Drug Term,Blue-tinted synthetic drug
+blue magic,General Drug Term,Rock form of MDMA
+moon rocks,General Drug Term,Slang for oxycodone pills
+blues,General Drug Term,Used for injecting drugs
+booster,General Drug Term,Eighth-ounce of cocaine
+eight ball,General Drug Term,Street slang for heroin
+white horse,General Drug Term,General term for drugs
+junk,General Drug Term,Refers to drug supply
+work,General Drug Term,Code for drug dealing
+ticket,General Drug Term,Drug supplier or dealer
+plug,General Drug Term,Drug-related package
+connect,General Drug Term,Drug shipment
+stuff,General Drug Term,Storage location for drugs
+trap,General Drug Term,Mixing or cutting drugs
+cook,General Drug Term,Drug injection equipment
+dope boy,General Drug Term,Slang for drug dealer
+trap house,General Drug Term,House used for drug dealing
+cooking,General Drug Term,Refers to drug preparation
+cutting,General Drug Term,Diluting drugs for resale
+mix,General Drug Term,Combining different drugs
+gram,General Drug Term,Measurement unit for drugs
+ounce,General Drug Term,Measurement unit for drugs
+brick,General Drug Term,Large quantity of drugs
+bird,General Drug Term,Slang for a kilogram of drugs
+key,General Drug Term,Short for kilogram of drugs
+plug,General Drug Term,Drug supplier or dealer
+connect,General Drug Term,Connection to drug supply
+runner,General Drug Term,Person who transports drugs
+middleman,General Drug Term,Middleman in drug deals
+fiend,General Drug Term,Person addicted to drugs
+junkie,General Drug Term,Drug user or addict
+burner,General Drug Term,Disposable phone used for drug deals
+stash spot,General Drug Term,Hidden location for storing drugs
+re-up,General Drug Term,Restocking drug supply
+flip,General Drug Term,Turning drugs into profit
+lick,General Drug Term,Robbery or attack for drugs or money
+trap,General Drug Term,Drug dealing area
+corner,General Drug Term,Street-level drug dealing area
+spot,General Drug Term,Established drug-selling area
+line,General Drug Term,Phone line for drug deals
+ticket,General Drug Term,Code word for drug pricing
+zaza,General Drug Term,High-grade marijuana
+gas,General Drug Term,Potent cannabis
+fire,General Drug Term,Very strong cannabis
+loud,General Drug Term,Highly potent marijuana
+pack,General Drug Term,Packaged drugs for sale
+plugged in,General Drug Term,Connected to drug suppliers
+movin',General Drug Term,Actively selling drugs
+work,General Drug Term,Drugs for sale
+weight,General Drug Term,Large drug supply
+scale,General Drug Term,Weighing drugs for sale
+paper,General Drug Term,Money earned from drug sales
+bands,General Drug Term,Large amounts of money
+stacks,General Drug Term,Stacks of drug money
+narco,General Drug Term,Reference to drug trade
+cartel,General Drug Term,Organized drug syndicate
+shipment,General Drug Term,Large shipment of drugs
+mule,General Drug Term,Person who transports drugs
+route,General Drug Term,Drug trafficking route
+drop,General Drug Term,Location where drugs are dropped off
+pick up,General Drug Term,Person picking up drugs
+delivery,General Drug Term,Transporting drugs
+undercover,General Drug Term,Law enforcement working undercover
+DEA,General Drug Term,Drug Enforcement Administration
+task force,General Drug Term,Law enforcement drug unit
+wiretap,General Drug Term,Police surveillance of drug activities
+skittles,General Drug Term,Drug-related financial term
+bars,General Drug Term,Term used in trafficking
+sticks,General Drug Term,Term used in trafficking
+football,General Drug Term,Drug packaging terminology
+greens,General Drug Term,Slang for drug use
+yellows,General Drug Term,Slang for drug use
+school bus,General Drug Term,Drug-related financial term
+kickers,General Drug Term,Street name for a drug
+footballs,General Drug Term,Slang for drug use
+peaches,General Drug Term,Term for a drug dealer
+roaches,General Drug Term,Street name for a drug
+roach clip,General Drug Term,Drug packaging terminology
+420,General Drug Term,Drug-related financial term
+710,General Drug Term,Drug-related financial term
+shatter,General Drug Term,A common drug preparation method
+wax,General Drug Term,Slang for drug use
+dabs,General Drug Term,Drug packaging terminology
+bho,General Drug Term,Street name for a drug
+crumble,General Drug Term,Drug-related financial term
+dab rig,General Drug Term,Reference to drug quality
+hash oil,General Drug Term,Refers to drug potency
+live resin,General Drug Term,Drug-related financial term
+moonrock,General Drug Term,Slang for a drug consumer
+distillate,General Drug Term,Slang for a drug consumer
+terps,General Drug Term,Term used in trafficking
+caviar,General Drug Term,Reference to drug quality
+pre-roll,General Drug Term,Reference to drug quality
+fatty,General Drug Term,Reference to drug quality
+blunt,General Drug Term,Term used in trafficking
+joint,General Drug Term,Slang for a drug consumer
+doobie,General Drug Term,Slang for drug use
+spliff,General Drug Term,Street name for a drug
+toke,General Drug Term,Reference to drug quality
+puff,General Drug Term,A common drug preparation method
+haze,General Drug Term,Term used in trafficking
+OG,General Drug Term,Term used in trafficking
+diesel,General Drug Term,Term used in trafficking
+sour,General Drug Term,A common drug preparation method
+cookies,General Drug Term,Term for a drug dealer
+blue dream,General Drug Term,Term for a drug dealer
+granddaddy purp,General Drug Term,Street name for a drug
+gorilla glue,General Drug Term,Slang for a drug consumer
+bubba kush,General Drug Term,Street name for a drug
+strawberry cough,General Drug Term,Slang for drug use
+mango kush,General Drug Term,Slang for drug use
+white widow,General Drug Term,A common drug preparation method
+lemon haze,General Drug Term,Refers to drug potency
+purple haze,General Drug Term,A common drug preparation method
+chemdawg,General Drug Term,Slang for drug use
+headband,General Drug Term,Street name for a drug
+northern lights,General Drug Term,Term for a drug dealer
+trainwreck,General Drug Term,Drug-related financial term
+alaskan thunder,General Drug Term,Term for a drug dealer
+pineapple express,General Drug Term,Drug packaging terminology
+agent orange,General Drug Term,Term used in trafficking
+amnesia haze,General Drug Term,A common drug preparation method
+critical kush,General Drug Term,Slang for drug use
+god's gift,General Drug Term,A common drug preparation method
+jack herer,General Drug Term,Slang for drug use
+AK-47,General Drug Term,Term for a drug dealer
+GSC,General Drug Term,Street name for a drug
+Zkittlez,General Drug Term,Drug-related financial term
+wedding cake,General Drug Term,Drug-related financial term
+gelato,General Drug Term,Drug-related financial term
+runtz,General Drug Term,Slang for a drug consumer
+forbidden fruit,General Drug Term,Street name for a drug
+ice cream cake,General Drug Term,Slang for drug use
+slurricane,General Drug Term,Slang for drug use
+candyland,General Drug Term,Slang for a drug consumer
+cereal milk,General Drug Term,Refers to drug potency
+sherbet,General Drug Term,A common drug preparation method
+sunset sherbet,General Drug Term,Reference to drug quality
+tangie,General Drug Term,Term used in trafficking
+tropicana cookies,General Drug Term,Slang for a drug consumer
+orange kush,General Drug Term,Term used in trafficking
+grape ape,General Drug Term,Term used in trafficking
+blackberry kush,General Drug Term,Drug-related financial term
+cali weed,General Drug Term,Term for a drug dealer
+exotics,General Drug Term,Drug packaging terminology
+fire bud,General Drug Term,Street name for a drug
+gas pack,General Drug Term,Slang for drug use
+top shelf,General Drug Term,A common drug preparation method
+mids,General Drug Term,Street name for a drug
+regs,General Drug Term,Street name for a drug
+shwag,General Drug Term,Slang for a drug consumer
+brick weed,General Drug Term,Street name for a drug
+dirt weed,General Drug Term,Street name for a drug
+bammy,General Drug Term,Term for a drug dealer
+mexican brick,General Drug Term,A common drug preparation method
+laced,General Drug Term,Reference to drug quality
+fry,General Drug Term,Slang for drug use
+fentanyl-laced,General Drug Term,Refers to drug potency
+speedball,General Drug Term,Street name for a drug
+goofball,General Drug Term,Term used in trafficking
+snowcap,General Drug Term,Drug-related financial term
+yayo,General Drug Term,A common drug preparation method
+booger sugar,General Drug Term,A common drug preparation method
+blizzard,General Drug Term,Drug packaging terminology
+white pony,General Drug Term,Drug packaging terminology
+snowflake,General Drug Term,Refers to drug potency
+frost,General Drug Term,Term used in trafficking
+skippy,General Drug Term,Drug packaging terminology
+happy powder,General Drug Term,Term used in trafficking
+bolivian marching powder,General Drug Term,Reference to drug quality
+candy,General Drug Term,Drug packaging terminology
+disco biscuits,General Drug Term,A common drug preparation method
+purple drank,General Drug Term,Term used in trafficking
+lean,General Drug Term,Term used in trafficking
+sizzurp,General Drug Term,Slang for a drug consumer
+flipping bricks,General Drug Term,Slang for a drug consumer
+kilo,General Drug Term,Refers to drug potency
+bird,General Drug Term,Slang for a drug consumer
+half,General Drug Term,Slang for drug use
+quarter,General Drug Term,Street name for a drug
+eight ball,General Drug Term,Refers to drug potency
+nickel bag,General Drug Term,Term used in trafficking
+dime bag,General Drug Term,Refers to drug potency
+dub,General Drug Term,Reference to drug quality
+zip,General Drug Term,Refers to drug potency
+qp,General Drug Term,Term used in trafficking
+hp,General Drug Term,Term for a drug dealer
+el chapo,General Drug Term,Refers to drug potency
+big homie,General Drug Term,Street name for a drug
+big fish,General Drug Term,Reference to drug quality
+connect,General Drug Term,Refers to drug potency
+big plug,General Drug Term,Slang for a drug consumer
+lil plug,General Drug Term,Reference to drug quality
+trap lord,General Drug Term,Drug-related financial term
+kingpin,General Drug Term,Slang for drug use
+boss,General Drug Term,Slang for drug use
+shot caller,General Drug Term,Slang for drug use
+OG,General Drug Term,A common drug preparation method
+young hustler,General Drug Term,Drug-related financial term
+work,General Drug Term,Slang for a drug consumer
+trapper,General Drug Term,Reference to drug quality
+cook,General Drug Term,Slang for drug use
+chemist,General Drug Term,Slang for drug use
+mixer,General Drug Term,Reference to drug quality
+cut master,General Drug Term,Drug-related financial term
+stash box,General Drug Term,Term for a drug dealer
+hideout,General Drug Term,A common drug preparation method
+trap spot,General Drug Term,A common drug preparation method
+stash house,General Drug Term,Refers to drug potency
+safehouse,General Drug Term,Term for a drug dealer
+drop spot,General Drug Term,Term used in trafficking
+transport,General Drug Term,Drug packaging terminology
+runner,General Drug Term,A common drug preparation method
+mule,General Drug Term,Street name for a drug
+go-getter,General Drug Term,Term used in trafficking
+underboss,General Drug Term,Street name for a drug
+heavyweight,General Drug Term,Drug-related financial term
+top dog,General Drug Term,Term used in trafficking
+big stepper,General Drug Term,Slang for a drug consumer
+street pharmacist,General Drug Term,Drug-related financial term
+speed,General Drug Term,Term for a drug dealer
+ice,General Drug Term,A common drug preparation method
+glass,General Drug Term,Reference to drug quality
+rocket fuel,General Drug Term,Slang for a drug consumer
+crank,General Drug Term,A common drug preparation method
+tina,General Drug Term,Reference to drug quality
+crissy,General Drug Term,Refers to drug potency
+gak,General Drug Term,Drug-related financial term
+peanut butter,General Drug Term,Slang for a drug consumer
+chocolate,General Drug Term,Drug-related financial term
+pebbles,General Drug Term,Slang for a drug consumer
+french fries,General Drug Term,Street name for a drug
+wheels,General Drug Term,Slang for a drug consumer
+blue birds,General Drug Term,Drug-related financial term
+yellow jackets,General Drug Term,Term used in trafficking
+black beauties,General Drug Term,Reference to drug quality
+uppers,General Drug Term,A common drug preparation method
+downers,General Drug Term,A common drug preparation method
+trips,General Drug Term,Term used in trafficking
+rollers,General Drug Term,Slang for drug use
+rollerskates,General Drug Term,Drug-related financial term
+candyflip,General Drug Term,Slang for a drug consumer
+hippieflip,General Drug Term,A common drug preparation method
+jelly beans,General Drug Term,Reference to drug quality
+trail mix,General Drug Term,Slang for drug use
+molly water,General Drug Term,Slang for drug use
+pressies,General Drug Term,Slang for drug use
+skull crushers,General Drug Term,Drug-related financial term
+moonwalk,General Drug Term,Slang for a drug consumer
+X pills,General Drug Term,Slang for a drug consumer
+space dust,General Drug Term,Term used in trafficking
+electric kool-aid,General Drug Term,Refers to drug potency
+cartel candy,General Drug Term,Slang for drug use
+unicorn dust,General Drug Term,Term used in trafficking
+panda powder,General Drug Term,Street name for a drug
+party favors,General Drug Term,Term used in trafficking
+gold rush,General Drug Term,Drug-related financial term
+silver bullet,General Drug Term,Street name for a drug
+pink panther,General Drug Term,Drug-related financial term
+red devil,General Drug Term,Drug-related financial term
+apple jacks,General Drug Term,Slang for drug use
+starburst,General Drug Term,Refers to drug potency
+chewies,General Drug Term,Slang for drug use
+bennies,General Drug Term,Slang for a drug consumer
+heaters,General Drug Term,Reference to drug quality
+hot rails,General Drug Term,Street name for a drug
+red rock,General Drug Term,A common drug preparation method
+purple haze,General Drug Term,Term for a drug dealer
+monster mash,General Drug Term,Street name for a drug
+flakka,General Drug Term,Term for a drug dealer
+spice,General Drug Term,Street name for a drug
+k2,General Drug Term,Slang for drug use
+cloud 9,General Drug Term,Reference to drug quality
+black mamba,General Drug Term,Drug packaging terminology
+scooby snacks,General Drug Term,Slang for drug use
+atomic bomb,General Drug Term,Street name for a drug
+monkey dust,General Drug Term,A common drug preparation method
+bath salts,General Drug Term,Slang for a drug consumer
+zombie dust,General Drug Term,Reference to drug quality
+krokodil,General Drug Term,A common drug preparation method
+needle candy,General Drug Term,Slang for a drug consumer
+cotton fever,General Drug Term,Term used in trafficking
+black tar,General Drug Term,Slang for drug use
+china white,General Drug Term,Term used in trafficking
+scramble,General Drug Term,Term used in trafficking
+dragon,General Drug Term,Slang for drug use
+brown sugar,General Drug Term,Term for a drug dealer
+mexican brown,General Drug Term,Reference to drug quality
+white horse,General Drug Term,Refers to drug potency
+smack,General Drug Term,Drug packaging terminology
+tar,General Drug Term,Street name for a drug
+dog food,General Drug Term,Term for a drug dealer
+black pearl,General Drug Term,Refers to drug potency
+butter,General Drug Term,A common drug preparation method
+gunpowder,General Drug Term,Slang for drug use
+cheese,General Drug Term,A common drug preparation method
+pearl,General Drug Term,Street name for a drug
+boulders,General Drug Term,Reference to drug quality
+snow caps,General Drug Term,Slang for drug use
+magic dust,General Drug Term,Slang for a drug consumer
+mind melt,General Drug Term,A common drug preparation method
+phantom,General Drug Term,Reference to drug quality
+superman,General Drug Term,Drug packaging terminology
+rainbow pills,General Drug Term,Refers to drug potency
+diamond dust,General Drug Term,Slang for a drug consumer
+kryptonite,General Drug Term,Drug packaging terminology
+powder keg,General Drug Term,Term for a drug dealer
+boomers,General Drug Term,Term for a drug dealer
+zombie,General Drug Term,Street name for a drug
+looney tunes,General Drug Term,Street name for a drug
+cherry bombs,General Drug Term,Reference to drug quality
+green goblin,General Drug Term,Slang for drug use
+white dove,General Drug Term,Drug-related financial term
+purple elephant,General Drug Term,Slang for drug use
+blue dolphins,General Drug Term,Term used in trafficking
+orange teslas,General Drug Term,Drug-related financial term
+yellow playboys,General Drug Term,Term used in trafficking
+mystic,General Drug Term,Term used in trafficking
+dark crystal,General Drug Term,Slang for drug use
+sunshine,General Drug Term,Slang for drug use
+fast cash,General Drug Term,Street name for a drug
+hand-to-hand,General Drug Term,Slang for a drug consumer
+prepaid,General Drug Term,Term for a drug dealer
+hot box,General Drug Term,Slang for drug use
+road trip,General Drug Term,A common drug preparation method
+border jump,General Drug Term,Term for a drug dealer
+night run,General Drug Term,Slang for drug use
+boomerang,General Drug Term,Reference to drug quality
+fronted,General Drug Term,Drug-related financial term
+half cut,General Drug Term,A common drug preparation method
+long haul,General Drug Term,Slang for drug use
+quick flip,General Drug Term,Slang for drug use
+cold drop,General Drug Term,Slang for drug use
+heat score,General Drug Term,Street name for a drug
+wired,General Drug Term,Term used in trafficking
+heavy load,General Drug Term,Street name for a drug
+flooded,General Drug Term,Term used in trafficking
+taxed,General Drug Term,Street name for a drug
+stash and dash,General Drug Term,Drug-related financial term
+under the table,General Drug Term,Reference to drug quality
+Looking to grab a little something for the weekend,Cocaine,Common phrase referring to cocaine
+Can you hook me up with that special package?,Fentanyl,Common phrase referring to fentanyl
+Need some extra fuel to keep me going,Cocaine,Common phrase referring to cocaine
+"That last batch was fire, got any more?",Heroin,Common phrase referring to heroin
+I'm trying to get something strong for the night,Heroin,Common phrase referring to heroin
+Looking for something to take the edge off,Methamphetamine,Common phrase referring to methamphetamine
+Where can I find the best stuff around here?,MDMA,Common phrase referring to mdma
+This new supplier has the purest product,Fentanyl,Common phrase referring to fentanyl
+Trying to get some Molly for the festival,Heroin,Common phrase referring to heroin
+I need some good tabs for the weekend,Opioids,Common phrase referring to opioids
+Can you front me a little until next time?,Methamphetamine,Common phrase referring to methamphetamine
+Got any blues on deck?,Cocaine,Common phrase referring to cocaine
+"That last hit was smooth, need another",Benzodiazepines,Common phrase referring to benzodiazepines
+This plug always comes through with the best,Opioids,Common phrase referring to opioids
+I know a guy who gets it straight from the source,Benzodiazepines,Common phrase referring to benzodiazepines
+"That connect has been running dry, need a new one",Marijuana,Common phrase referring to marijuana
+"My stash is running low, need to re-up",Opioids,Common phrase referring to opioids
+Trying to score something discreet,Cocaine,Common phrase referring to cocaine
+Need a new batch before the big event,Methamphetamine,Common phrase referring to methamphetamine
+Looking to push some weight this week,Methamphetamine,Common phrase referring to methamphetamine
+Can you get me something high-quality?,Opioids,Common phrase referring to opioids
+Looking to roll hard on some good stuff,Marijuana,Common phrase referring to marijuana
+"This strain is next level, need more",LSD,Common phrase referring to lsd
+Got any solid connects in this area?,LSD,Common phrase referring to lsd
+Where can I grab some quality goods?,Methamphetamine,Common phrase referring to methamphetamine
+"My usual source is out, need an alternative",Cocaine,Common phrase referring to cocaine
+Looking to move some big quantities soon,Opioids,Common phrase referring to opioids
+Trying to keep the supply chain steady,Cocaine,Common phrase referring to cocaine
+Need something to get through the night,Cocaine,Common phrase referring to cocaine
+"That last deal went smooth, let's do it again",Cocaine,Common phrase referring to cocaine
+Looking to score discreetly,Opioids,Common phrase referring to opioids
+Can you make a quick drop?,Methamphetamine,Common phrase referring to methamphetamine
+This is the best quality I’ve had in a while,MDMA,Common phrase referring to mdma
+Trying to stay low-key with this one,Methamphetamine,Common phrase referring to methamphetamine
+"My regular guy is dry, need a backup",Fentanyl,Common phrase referring to fentanyl
+Need a new link for something fresh,Heroin,Common phrase referring to heroin
+Trying to find something top-tier,Benzodiazepines,Common phrase referring to benzodiazepines
+"This batch needs to be pure, no cut",Marijuana,Common phrase referring to marijuana
+Need something that hits harder this time,Opioids,Common phrase referring to opioids
+Looking to double up on the next run,Methamphetamine,Common phrase referring to methamphetamine
+Can you deliver to a safe spot?,MDMA,Common phrase referring to mdma
+This needs to stay off the radar,Methamphetamine,Common phrase referring to methamphetamine
+Looking for something stronger than last time,Fentanyl,Common phrase referring to fentanyl
+Got any high-grade stuff left?,Benzodiazepines,Common phrase referring to benzodiazepines
+"This is moving fast, need to restock",LSD,Common phrase referring to lsd
+Looking to test the new batch,Heroin,Common phrase referring to heroin
+Need a reliable source for the long term,MDMA,Common phrase referring to mdma
+Can you get me the best product available?,Heroin,Common phrase referring to heroin
+This deal needs to go smoothly,Methamphetamine,Common phrase referring to methamphetamine
+I need something that won’t show up on tests,LSD,Common phrase referring to lsd
+Trying to get some Molly for the festival,Marijuana,Common phrase referring to marijuana
+"This batch needs to be pure, no cut",Fentanyl,Common phrase referring to fentanyl
+"My regular guy is dry, need a backup",Fentanyl,Common phrase referring to fentanyl
+Got any blues on deck?,Cocaine,Common phrase referring to cocaine
+Looking to double up on the next run,Benzodiazepines,Common phrase referring to benzodiazepines
+This is the best quality I’ve had in a while,Opioids,Common phrase referring to opioids
+Looking to push some weight this week,Heroin,Common phrase referring to heroin
+This plug always comes through with the best,Heroin,Common phrase referring to heroin
+"This strain is next level, need more",Fentanyl,Common phrase referring to fentanyl
+"This batch needs to be pure, no cut",Benzodiazepines,Common phrase referring to benzodiazepines
+Can you hook me up with that special package?,Marijuana,Common phrase referring to marijuana
+"This strain is next level, need more",MDMA,Common phrase referring to mdma
+This plug always comes through with the best,MDMA,Common phrase referring to mdma
+Trying to get some Molly for the festival,Heroin,Common phrase referring to heroin
+Where can I grab some quality goods?,Opioids,Common phrase referring to opioids
+Can you front me a little until next time?,Cocaine,Common phrase referring to cocaine
+This is the best quality I’ve had in a while,LSD,Common phrase referring to lsd
+Need something to get through the night,Marijuana,Common phrase referring to marijuana
+Got any high-grade stuff left?,Fentanyl,Common phrase referring to fentanyl
+Looking to double up on the next run,Benzodiazepines,Common phrase referring to benzodiazepines
+Trying to stay low-key with this one,Marijuana,Common phrase referring to marijuana
+Trying to find something top-tier,Methamphetamine,Common phrase referring to methamphetamine
+Got any high-grade stuff left?,Opioids,Common phrase referring to opioids
+Where can I grab some quality goods?,MDMA,Common phrase referring to mdma
+"My stash is running low, need to re-up",Benzodiazepines,Common phrase referring to benzodiazepines
+This needs to stay off the radar,Benzodiazepines,Common phrase referring to benzodiazepines
+This needs to stay off the radar,Marijuana,Common phrase referring to marijuana
+This is the best quality I’ve had in a while,Benzodiazepines,Common phrase referring to benzodiazepines
+Trying to find something top-tier,Fentanyl,Common phrase referring to fentanyl
+Looking to roll hard on some good stuff,Opioids,Common phrase referring to opioids
+Can you deliver to a safe spot?,Heroin,Common phrase referring to heroin
+Looking to roll hard on some good stuff,Benzodiazepines,Common phrase referring to benzodiazepines
+Where can I grab some quality goods?,Heroin,Common phrase referring to heroin
+This is the best quality I’ve had in a while,MDMA,Common phrase referring to mdma
+This plug always comes through with the best,Benzodiazepines,Common phrase referring to benzodiazepines
+"This batch needs to be pure, no cut",MDMA,Common phrase referring to mdma
+I'm trying to get something strong for the night,Heroin,Common phrase referring to heroin
+Trying to find something top-tier,Benzodiazepines,Common phrase referring to benzodiazepines
+"This batch needs to be pure, no cut",Opioids,Common phrase referring to opioids
+Trying to keep the supply chain steady,Cocaine,Common phrase referring to cocaine
+Where can I grab some quality goods?,Heroin,Common phrase referring to heroin
+This plug always comes through with the best,Methamphetamine,Common phrase referring to methamphetamine
+Trying to find something top-tier,Benzodiazepines,Common phrase referring to benzodiazepines
+This plug always comes through with the best,Fentanyl,Common phrase referring to fentanyl
+Can you front me a little until next time?,LSD,Common phrase referring to lsd
+Trying to keep the supply chain steady,Marijuana,Common phrase referring to marijuana
+Trying to score something discreet,LSD,Common phrase referring to lsd
+Need a new batch before the big event,Marijuana,Common phrase referring to marijuana
+I need some good tabs for the weekend,MDMA,Common phrase referring to mdma
+Looking to grab a little something for the weekend,Marijuana,Common phrase referring to marijuana
+Trying to stay low-key with this one,Opioids,Common phrase referring to opioids
+Where can I grab some quality goods?,Benzodiazepines,Common phrase referring to benzodiazepines
+Trying to keep the supply chain steady,MDMA,Common phrase referring to mdma
+Looking to grab a little something for the weekend,Methamphetamine,Common phrase referring to methamphetamine
+"This strain is next level, need more",Cocaine,Common phrase referring to cocaine
+Looking to push some weight this week,MDMA,Common phrase referring to mdma
+"That last hit was smooth, need another",MDMA,Common phrase referring to mdma
+I need some good tabs for the weekend,Fentanyl,Common phrase referring to fentanyl
+This needs to stay off the radar,Fentanyl,Common phrase referring to fentanyl
+Where can I grab some quality goods?,LSD,Common phrase referring to lsd
+Got any high-grade stuff left?,Fentanyl,Common phrase referring to fentanyl
+Looking for something stronger than last time,Cocaine,Common phrase referring to cocaine
+This plug always comes through with the best,LSD,Common phrase referring to lsd
+Where can I grab some quality goods?,Cocaine,Common phrase referring to cocaine
+Trying to stay low-key with this one,Opioids,Common phrase referring to opioids
+Where can I grab some quality goods?,Fentanyl,Common phrase referring to fentanyl
+This is the best quality I’ve had in a while,MDMA,Common phrase referring to mdma
+Looking to grab a little something for the weekend,Methamphetamine,Common phrase referring to methamphetamine
+Looking for something stronger than last time,Fentanyl,Common phrase referring to fentanyl
+Need a reliable source for the long term,Methamphetamine,Common phrase referring to methamphetamine
+Need something to get through the night,Benzodiazepines,Common phrase referring to benzodiazepines
+Got any blues on deck?,MDMA,Common phrase referring to mdma
+"This batch needs to be pure, no cut",Marijuana,Common phrase referring to marijuana
+"My stash is running low, need to re-up",Methamphetamine,Common phrase referring to methamphetamine
+"That last batch was fire, got any more?",Heroin,Common phrase referring to heroin
+Trying to find something top-tier,MDMA,Common phrase referring to mdma
+Looking to push some weight this week,Heroin,Common phrase referring to heroin
+Where can I grab some quality goods?,Opioids,Common phrase referring to opioids
+Need something to get through the night,Benzodiazepines,Common phrase referring to benzodiazepines
+Looking to score discreetly,Benzodiazepines,Common phrase referring to benzodiazepines
+"This batch needs to be pure, no cut",Methamphetamine,Common phrase referring to methamphetamine
+"This batch needs to be pure, no cut",Cocaine,Common phrase referring to cocaine
+"That last deal went smooth, let's do it again",Cocaine,Common phrase referring to cocaine
+This is the best quality I’ve had in a while,Cocaine,Common phrase referring to cocaine
+Trying to stay low-key with this one,Opioids,Common phrase referring to opioids
+Trying to stay low-key with this one,Methamphetamine,Common phrase referring to methamphetamine
+Can you deliver to a safe spot?,Cocaine,Common phrase referring to cocaine
+This is the best quality I’ve had in a while,Benzodiazepines,Common phrase referring to benzodiazepines
+"That last deal went smooth, let's do it again",MDMA,Common phrase referring to mdma
+Trying to find something top-tier,MDMA,Common phrase referring to mdma
+This needs to stay off the radar,Heroin,Common phrase referring to heroin
+Need something to get through the night,Methamphetamine,Common phrase referring to methamphetamine
+Trying to find something top-tier,Methamphetamine,Common phrase referring to methamphetamine
+"This batch needs to be pure, no cut",Fentanyl,Common phrase referring to fentanyl
+Trying to get some Molly for the festival,Fentanyl,Common phrase referring to fentanyl
+Where can I grab some quality goods?,MDMA,Common phrase referring to mdma
+This plug always comes through with the best,LSD,Common phrase referring to lsd
+"That last batch was fire, got any more?",Benzodiazepines,Common phrase referring to benzodiazepines
+This is the best quality I’ve had in a while,Benzodiazepines,Common phrase referring to benzodiazepines
+Got any high-grade stuff left?,Methamphetamine,Common phrase referring to methamphetamine
+"That last deal went smooth, let's do it again",Methamphetamine,Common phrase referring to methamphetamine
+Looking to grab a little something for the weekend,Marijuana,Common phrase referring to marijuana
+This plug always comes through with the best,LSD,Common phrase referring to lsd
+"That last batch was fire, got any more?",Cocaine,Common phrase referring to cocaine
+Where can I grab some quality goods?,LSD,Common phrase referring to lsd
+Looking to roll hard on some good stuff,Heroin,Common phrase referring to heroin
+Where can I grab some quality goods?,Benzodiazepines,Common phrase referring to benzodiazepines
+This plug always comes through with the best,Fentanyl,Common phrase referring to fentanyl
+Can you deliver to a safe spot?,Fentanyl,Common phrase referring to fentanyl
+"This batch needs to be pure, no cut",Heroin,Common phrase referring to heroin
+Can you front me a little until next time?,MDMA,Common phrase referring to mdma
+Where can I grab some quality goods?,Cocaine,Common phrase referring to cocaine
+This plug always comes through with the best,LSD,Common phrase referring to lsd
+Where can I grab some quality goods?,Heroin,Common phrase referring to heroin
+Looking to grab a little something for the weekend,Methamphetamine,Common phrase referring to methamphetamine
+Got any high-grade stuff left?,Cocaine,Common phrase referring to cocaine
+Got any high-grade stuff left?,Cocaine,Common phrase referring to cocaine
+Can you front me a little until next time?,LSD,Common phrase referring to lsd
+Can you hook me up with that special package?,Methamphetamine,Common phrase referring to methamphetamine
+Trying to stay low-key with this one,LSD,Common phrase referring to lsd
+This needs to stay off the radar,Cocaine,Common phrase referring to cocaine
+Trying to keep the supply chain steady,Heroin,Common phrase referring to heroin
+Looking to roll hard on some good stuff,Opioids,Common phrase referring to opioids
+Looking to push some weight this week,LSD,Common phrase referring to lsd
+Where can I grab some quality goods?,Benzodiazepines,Common phrase referring to benzodiazepines
+This is the best quality I’ve had in a while,LSD,Common phrase referring to lsd
+"This batch needs to be pure, no cut",MDMA,Common phrase referring to mdma
+"This batch needs to be pure, no cut",Methamphetamine,Common phrase referring to methamphetamine
+Trying to find something top-tier,Cocaine,Common phrase referring to cocaine
+This new supplier has the purest product,Cocaine,Common phrase referring to cocaine
+Trying to stay low-key with this one,LSD,Common phrase referring to lsd
+Got any solid connects in this area?,LSD,Common phrase referring to lsd
+I know a guy who gets it straight from the source,Opioids,Common phrase referring to opioids
+This is the best quality I’ve had in a while,Fentanyl,Common phrase referring to fentanyl
+This is the best quality I’ve had in a while,Benzodiazepines,Common phrase referring to benzodiazepines
+This new supplier has the purest product,Marijuana,Common phrase referring to marijuana
+Looking to grab a little something for the weekend,Methamphetamine,Common phrase referring to methamphetamine
+Trying to find something top-tier,MDMA,Common phrase referring to mdma
+This needs to stay off the radar,MDMA,Common phrase referring to mdma
+Trying to keep the supply chain steady,Cocaine,Common phrase referring to cocaine
+This is the best quality I’ve had in a while,Cocaine,Common phrase referring to cocaine
+This plug always comes through with the best,Methamphetamine,Common phrase referring to methamphetamine
+"My stash is running low, need to re-up",Cocaine,Common phrase referring to cocaine
+I know a guy who gets it straight from the source,Methamphetamine,Common phrase referring to methamphetamine
+I know a guy who gets it straight from the source,Heroin,Common phrase referring to heroin
+Trying to stay low-key with this one,Cocaine,Common phrase referring to cocaine
+Can you front me a little until next time?,Heroin,Common phrase referring to heroin
+Got any high-grade stuff left?,Heroin,Common phrase referring to heroin
+This plug always comes through with the best,Heroin,Common phrase referring to heroin
+Where can I grab some quality goods?,Fentanyl,Common phrase referring to fentanyl
