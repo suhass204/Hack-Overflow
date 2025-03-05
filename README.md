@@ -1,7 +1,6 @@
 # SecureGram: AI-Powered Secure Messaging Platform
 
-
-SecureGram is a secure and intelligent chat platform designed to provide safe communication while integrating AI-driven message filtering and administrative controls.
+SecureGram is a secure and intelligent chat platform designed for safe communication. It integrates AI-driven message filtering, machine learning (ML)-based detection, and administrative controls to identify and prevent drug-related messages in real time.
 
 ## Features
 - **Secure Chatting**: Real-time messaging with an intuitive UI.
@@ -21,7 +20,9 @@ SecureGram is a secure and intelligent chat platform designed to provide safe co
 - NLTK-based AI model for message filtering
 
 ## Installation
+
 ### Prerequisites
+Ensure you have the following installed:
 - Node.js
 - MongoDB
 - Python (for ML model)
@@ -29,37 +30,50 @@ SecureGram is a secure and intelligent chat platform designed to provide safe co
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/suhass204/Hack-Overflow.git
-   cd Hack-Overflow
+   git clone https://github.com/Vidyashree-H-Shetty/SecureGram.git
+   cd SecureGram
    ```
+
 2. Install backend dependencies:
    ```sh
    npm install
    ```
+
 3. Set up the ML service:
    - Ensure Python is installed.
    - Install necessary dependencies:
      ```sh
-     pip install -r requirements.txt
+     pip install nltk pandas flask
      ```
    - Run the ML service:
      ```sh
-     python ml_service.py
+     python backend/python/ml_checker.py
      ```
+
 4. Start the backend server:
    ```sh
-   node server.js
+   node backend/index.js
    ```
-5. Open `index.html` in a browser to access the frontend.
+
+5. Start the chat server:
+   ```sh
+   node chat/server.js
+   ```
+
+6. Start the frontend server:
+   ```sh
+   cd frontend
+   npm run dev
+   ```
 
 ## Usage
-1. Users can register and log in to access SecureGram.
-2. Chat in real time with AI filtering to prevent inappropriate messages.
-3. Admins can view flagged users and take necessary actions.
+- Users can register and log in to access SecureGram.
+- Chat in real time with AI filtering to prevent inappropriate messages.
+- Admins can view flagged users and take necessary actions.
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## Contact
-For any inquiries, reach out at suhasgowda540@gmail.com
+For any inquiries, reach out at **xyz7@gmail.com**
 
